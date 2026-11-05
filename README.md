@@ -45,9 +45,3 @@
 <p align="center">
   🚀 Currently working on <a href="https://github.com/evr1lay/API-Controller">API-Controller</a>
 </p>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=evr1lay&theme=bear&show_icons=true&hide_border=true&count_private=true">
-</p>
