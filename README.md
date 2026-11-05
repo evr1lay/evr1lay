@@ -45,3 +45,13 @@
 <p align="center">
   🚀 Currently working on <a href="https://github.com/evr1lay/API-Controller">API-Controller</a>
 </p>
+
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evr1lay/evr1lay/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evr1lay/evr1lay/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/evr1lay/evr1lay/output/github-snake.svg" />
+  </picture>
+</p>
