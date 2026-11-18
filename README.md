@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -25,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
 </div>
